@@ -7,7 +7,6 @@ public class House {
 
     }
 
-
     // 2-args constructor
     public House(double price, int year) {
         this.price = price;
